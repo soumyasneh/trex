@@ -97,7 +97,7 @@ if(obstaclesGroup.isTouching(trex)){
 gameState=END;
 }
 if(score>0 && score%100===0) {
- checkpointSound.play(); 
+ checkPointSound.play(); 
   
 }
   }
