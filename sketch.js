@@ -78,7 +78,7 @@ function draw() {
    ground.velocityX=-4; 
     
   if(keyDown("space")) {
-    jumpSound.play();
+    //jumpSound.play();
     trex.velocityY = -10;
   }
   
